@@ -2,3 +2,4 @@
 def fProducto(num1, num2):
     prod = num1 * num2
     print(f'El producto de los números es: {prod}')
+fProducto(2,3)
